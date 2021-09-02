@@ -2,8 +2,8 @@
 #include <conio.h>
 #include <windows.h>
 #include <ctime>
-using namespace std;
 #define print cout
+using namespace std;
 int main(){
 	int o,h,n,c,cpp,s1,score1=0,score2=0,score3=0,score4=0,score5=0,score6=0,score7=0,score8=0,score9=0,score10=0,total=0,totalt=0,t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,q=0;
 	string a,name,t,id,g;
